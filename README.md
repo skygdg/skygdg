@@ -45,7 +45,7 @@ Sou estudante de **Engenharia da Computação** pela Cruzeiro do Sul Virtual e a
 
 * **Graduação em Engenharia da Computação**
     * Cruzeiro do Sul Virtual
-* **Cursos Complementares de Programação & Web**
+* **Cursos Complementares de Programação**
     * Hashtag Treinamentos
 
 ---
